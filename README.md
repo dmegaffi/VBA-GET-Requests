@@ -1,7 +1,7 @@
 # VBA-GET-Requests
 Interacting with API's using VBA to improve efficiency in EXCEL
 
-The Quadriga - GET was a proof of concept file to determine if API requests would work in VBA. They do. It pulls live crypto-pricing down from Quadrigacx crypto-exchange.
+The Quadriga - GET was a proof of concept file to determine if API requests would work in VBA. They do. It pulls live crypto-pricing down from Quadrigacx crypto-exchange. **edit With the ongoing scandal involving quadriga and missing funds their website is down and this file is currently not working
 
 FX - GET file was a more functional file. This Excel file pulls current and historical information sourced 
 from http://exchangeratesapi.io/
